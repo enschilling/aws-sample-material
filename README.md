@@ -1,4 +1,5 @@
 # aws-sample-material
 Sample and demo materials for AWS classes
 
-This change is to test the github webhook for Jenkins.
+Updated 27-Feb-2015 - 
+Jenkins WebHook currently configured for manual interaction.
